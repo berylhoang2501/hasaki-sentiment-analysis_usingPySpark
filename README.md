@@ -2,7 +2,7 @@
 
 Classifies customer reviews into positive, negative, or neutral with 93.35% test accuracy using Logistic Regression after resampling. Developed on Google Colab for Hasaki.vn to provide actionable insights for product improvements.
 
-![logo](https://github.com/user-attachments/assets/7d2a47c1-1df7-4d29-9098-f20a350b62df)
+![SENTIMENT ANALYSIS](https://github.com/user-attachments/assets/1998588e-59f5-41ed-a875-496eb576be0d)
 
 ## Tools
 - Python, PySpark, Underthesea, Pandas, Google Colab
